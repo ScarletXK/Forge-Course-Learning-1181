@@ -1,5 +1,6 @@
 package com.shadow.zero;
 
+import com.shadow.zero.block.ModBlocks;
 import com.shadow.zero.item.ModItems;
 import net.minecraft.world.level.block.Block;
 import net.minecraft.world.level.block.Blocks;
@@ -32,6 +33,7 @@ public class ZeroMain
         IEventBus eventBus = FMLJavaModLoadingContext.get().getModEventBus();
 
         ModItems.register(eventBus);
+        ModBlocks.register(eventBus);
 
 
         eventBus.addListener(this::setup);

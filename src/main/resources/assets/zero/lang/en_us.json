@@ -1,5 +1,11 @@
 {
   "item.zero.cobalt_ingot": "Cobalt Ingot",
-  "item.zero.cobalt_nugget": "Cobalt Nugget"
+  "item.zero.cobalt_nugget": "Cobalt Nugget",
+
+
+
+
+  "block.zero.cobalt_block": "Cobalt Block",
+  "block.zero.cobalt_ore": "Cobalt Ore"
 
 }
