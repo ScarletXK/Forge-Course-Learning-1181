@@ -11,5 +11,8 @@
   "block.zero.cobalt_block": "Cobalt Block",
   "block.zero.cobalt_ore": "Cobalt Ore",
   "block.zero.raw_cobalt_block": "Raw Cobalt Block",
-  "block.zero.deepslate_cobalt_ore": "Deep Slate Cobalt Ore"
+  "block.zero.deepslate_cobalt_ore": "Deep Slate Cobalt Ore",
+
+
+  "itemGroup.coursemodtab": "MCCourse Mod"
 }
