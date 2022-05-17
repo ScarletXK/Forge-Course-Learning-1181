@@ -3,7 +3,7 @@
   "ingredient": {
     "item": "zero:cobalt_ore"
   },
-  "results": "zero:cobalt_ingot",
+  "result": "zero:cobalt_ingot",
   "experience": 0.7,
   "coockingtime": 200
 }
