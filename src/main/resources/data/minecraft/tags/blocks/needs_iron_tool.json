@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "zero:cobalt_block",
+    "zero:raw_cobalt_block",
+    "zero:cobalt_ore",
+    "zero:deepslate_cobalt_block"
+  ]
+}
