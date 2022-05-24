@@ -4,11 +4,6 @@
   "item.zero.raw_cobalt": "Raw Cobalt",
   "item.zero.dowsing_rod": "Dowsing Rod",
 
-
-
-
-
-
   "block.zero.cobalt_block": "Cobalt Block",
   "block.zero.cobalt_ore": "Cobalt Ore",
   "block.zero.raw_cobalt_block": "Raw Cobalt Block",
@@ -19,6 +14,6 @@
 
 
 
-  "item.zero.dowsing_rod.no_valuables": "No Valuables found",
+  "item.zero.dowsing_rod.no_valuables": "No Valuables found"
 
 }
