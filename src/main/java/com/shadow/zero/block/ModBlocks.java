@@ -1,6 +1,7 @@
 package com.shadow.zero.block;
 
 import com.shadow.zero.ZeroMain;
+import com.shadow.zero.block.custom.SpeedyBlock;
 import com.shadow.zero.item.ModCreativeModeTab;
 import com.shadow.zero.item.ModItems;
 import net.minecraft.world.item.BlockItem;
@@ -32,6 +33,9 @@ public class ModBlocks {
 
     public static final RegistryObject<Block> DEEPSLATE_COBALT_ORE = registerBlock("deepslate_cobalt_ore",
             ()-> new Block(BlockBehaviour.Properties.of(Material.METAL).strength(5f).requiresCorrectToolForDrops()), ModCreativeModeTab.COURSE_TAB);
+
+    public static final RegistryObject<Block> SPEEDY_BLOCK = registerBlock("speedy_block",
+            ()-> new SpeedyBlock(BlockBehaviour.Properties.of(Material.METAL).strength(5f).requiresCorrectToolForDrops()), ModCreativeModeTab.COURSE_TAB);
 
 
 
