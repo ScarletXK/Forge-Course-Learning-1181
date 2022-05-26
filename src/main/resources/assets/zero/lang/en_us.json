@@ -16,6 +16,8 @@
 
 
 
-  "item.zero.dowsing_rod.no_valuables": "No Valuables found"
+  "item.zero.dowsing_rod.no_valuables": "No Valuables found",
 
+  "tooltip.zero.dowsing_rod.tooltip.shift": "Right Click to find valuables",
+  "tooltip.zero.dosing_rod.tooltip": "Press §eShift§r for more Information!"
 }
