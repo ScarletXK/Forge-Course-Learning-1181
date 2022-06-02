@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "zero:block/cobalt_slab"
+    },
+    "type=double": {
+      "model": "zero:block/cobalt_block"
+    },
+    "type=top": {
+      "model": "zero:block/cobalt_slab_top"
+    }
+  }
+}
